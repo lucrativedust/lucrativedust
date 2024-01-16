@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Dhruv Tyagi
+Senior Computer Science Undergraduate at IIT Delhi
 
 <!--
 **lucrativedust/lucrativedust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
